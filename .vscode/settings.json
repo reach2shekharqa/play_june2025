@@ -1,0 +1,5 @@
+{
+    "github.copilot.chat.commitMessageGeneration.instructions": [{
+        "text": "complete commit messages with nice emojis and for all new updated files throughout the code base"
+    }]
+}
